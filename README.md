@@ -13,5 +13,5 @@ INSTANCE_LIST = instanceid1 instanceid2 ...
 - JST 22:00
 
 ```
-cron(0 01 * * ? *)
+cron(0 13 * * ? *)
 ```
